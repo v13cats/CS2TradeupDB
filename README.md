@@ -1,5 +1,5 @@
 # CS2TradeupDB
-Tool/crawler for quick searching https://tradeupdb.com for the most profitable cs2/csgo/counterstrike tradeup contracts.
+Tool/crawler for quick searching https://tradeupdb.com 's pre-calculated database for the most profitable cs2/csgo/counterstrike tradeup contracts.
 
 Very simple script using python and the requests lib.
 
